@@ -1,0 +1,41 @@
+CS201 Programming Assignment 6 checklist & grading sheet
+PA Grade = 62/60
+
+Comments:
+3/3 Intro comments complete and clear 
+2/2 Appropriate in-line commentary given 
+2/2 Function header comments included with name of programmer
+
+Format:
+1/1 Proper use of upper/lowercase
+1/1 Appropriate use of whitespace
+
+Supporting Documents:
+3/3 Reflection
+
+Correctness/Completeness Issues:
+2.5/3 User provides requested input - doesn't ask for graph file name
+4/4 All appropriate error protection used (file, input values)
+3/3 Correctly implemented menu
+3/3 Reads from the file(s) correctly and stores data for given problem
+5/5 How did the amount of donations change over time? Create a graph that displays the total number of donations made each day leading up to the election, ordered by day.
+5/5 Which committees received the most money? Output to a file the list of each committee and the total money they received. - don't need to reverse the dictionary at the end of the function, can solve with original dictionary
+5/5 How many people donated from a particular employer? (user provides the name of the employer) 
+4/4 A question of your choosing 
+1/1 No other logic errors
+
+Design Issues:
+1/1 Appropriate variable names
+4.75/5 Appropriate function design - dictionarychoiceX is not a good function name. Name it for the actual task being done.
+2/2 Reasonable data structure choices
+2.75/3 Clear prompts - need to tell user that it's a yes/no question when asked to go again
+4/4 Clear and well formatted output
+
+
+Extra Credit: (+3)
+1. Particularly well commented and organized code
+2. Particularly good/clear output, including excellent prompts - the output for question 4 was GREAT!
+3. Particularly excellent design, which includes great efficiency or data structure choices - great extra file data error checking, above and beyond what was expected
+
+
+Additional Comments:

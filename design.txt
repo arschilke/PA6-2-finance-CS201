@@ -1,0 +1,50 @@
+*****question: how much do retired people donate and the percentage of them who donate to each committee
+
+Read file function
+Purpose: reads in the data from file and stores in a list of lists
+Parameters: filename, from valid file
+Return: list of lists from the data in the file
+
+Vaild file
+Purpose:checking for valid file function
+Parameters: none
+Return: a vaild filename from the user
+
+Menu
+Purpose:ask user which problem to solve
+Parameters:none
+Return: choice
+
+Dictionary_count (choices 1 or 3)
+Purpose: analyzes the list of lists to count either donations per day or count the number of donations from each employer, then stores day or employer as key and count as value
+Parameters:list of list, choice from menu
+Return: dictionary
+
+Dictionary_amount (choices 2 or 4)
+Create dictionary function choice 2 = amount of donations per committee, choice 4 = dictionary of commitees and if retired add amount)
+Purpose: Analyises data and adds amount of donation to each commitee: if choice is 4 only adds to commitee if retired. commmitee is the key and amount total is the value in the dictionary (choice 2 commitee is value and amount is key(for use in "find greatest value...")
+Parameters: list of list
+Return: dictionary
+
+list of list for dates and values and order by date
+Purpose: convert each entry in dictionary to list and append list to larger list, sort this by date
+Parameters: dictionary
+return: sorted list
+
+split number of donations list for graph and create graph
+Purpose: create x and y list for graph, x values are at index[0] and y values at index[1] then use list to create graph
+Parameters: list of list with x and y values (sorted list from "list of list for dates and values and order by date")
+
+find greatest value and key from amount of donations dictionary
+Purpose: search through keys to find the max and its value(commitee)
+
+
+calculates percent for each commitee and output to user
+Purpose: calculates the percent by dividing the amount to commtiee to the total amount of retired people
+Parameters: retired dictionary
+return: perect per committee dictionary
+
+main
+Purpose:call functions and ask user for input
+Parameters: None
+Return: None

@@ -1,0 +1,13 @@
+PA6 Design Grade
+15/15
+
+5/5 Partner Agreement Complete and Reasonable
+* make sure you are giving yourselves enough time to work together. I can't tell how much time you ahve in each meeting, but there is a huge gap between 12/1 and 12/6.
+
+5/5 List of functions and their details makes sense
+* extra question is fine.
+* dictionary count -- make sure you are writing your function so that it works for both situations without extra code. If you end up with a bunch of if choice 1 do "This" and else do "that", that's NOT a good function design, and means you need 2 functions.
+
+
+5/5 Python file reads from file and stores correctly
+* make sure you stirp off whitespace like endline characters (\n) from the values you are storing from the file

@@ -1,0 +1,50 @@
+PA6 Partner Agreement
+
+By filling out this agreement, both partners agree to abide by the honor code and to work together on this project.
+Both partners will, to the best of their ability, support the other person in this PA as well as committing to do their own fair share of the work.
+Both partners agree that any issues that occur that they cannot resolve between themselves will be brought up to Dr. Olsen in a timely manner so that she can assist.
+Both partners understand that their best way to get help from Dr. Olsen if they get stuck is to go to office hours.
+
+The lead programmer is the main person responsible for a given function. However, the function should still be written either with pair programming, or with the other partner helping and answering questions. 
+The lead programmer should be the one to drive that function, which includes doing all typing.
+Both partners agree to take the lead on their assigned functions, AND to help their partner on the other functions.
+
+
+-------------------- Fill out below this line -------------------------------
+1. Plan for meeting: What days/times do you commit to meeting to work on and discuss this assignment? You should have planned meeting times throughout the project.
+10:00 11/28/16
+8:00PM 11/29/16
+4:30PM 11/30/16
+11:15AM 12/1/16
+7:00PM 12/6/16
+
+2. Lead programmer: For every function you need in your program, list the person who is the lead programmer.
+The calculation functions MUST be split evenly among the programmers.
+Then the remaining functions should be split evenly as well.
+Don't forget to think about any error checking functions you might need.
+Note that it is expected that you pair program to get the file reading part due by the design deadline working.
+List each function name and the lead for that function (must match function name in design document):
+
+read file function: Chiara
+
+Vaild file: Chiara
+
+menu: Alyssa
+
+Dictionary_choice (1 and 3): Chiara
+
+Dictionary_choice (2 and 4) : Alyssa
+
+list of list for dates and values and order by date: chiara
+
+split number of donations list for graph and create graph: Alyssa
+
+find greatest value and key from amount of donations dictionary:Chiara
+
+calculates percent for each commitee and output to user:Alyssa
+
+main:Chiara
+
+3. Type your name below to act as your signature to show that you have read and will abide by this partner agreement:
+Partner1: Alyssa Schilke
+Partner2:Chiara Maalouf

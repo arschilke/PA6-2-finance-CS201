@@ -1,0 +1,8 @@
+def dict():
+    dict={"10/12/16":1,"10/11/16":3,"10/13/16":6}
+    list=[]
+    for key in dict:
+        temp=[key,dict[key]]
+        list.append(temp)
+    list.sort()
+    print(list)
